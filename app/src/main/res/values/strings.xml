@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatKitty</string>
+    <string name="btmZdrav">Поздороваться</string>
+    <string name="btmvoron">Считаем ворон</string>
+</resources>
